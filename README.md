@@ -1,10 +1,10 @@
-# Hey, I'm Nabeera 
+# Hey, I'm Nabeera 👩🏻‍💻
 
 **Frontend Developer | Figma UI Designer | Laravel**
 
-Based in Karachi, Pakistan. I design interfaces in Figma and turn them into responsive, polished websites.
+Based in 📍 Karachi, Pakistan. I design interfaces in Figma and turn them into responsive, polished websites.
 
-## What I work with
+## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
@@ -15,7 +15,11 @@ Based in Karachi, Pakistan. I design interfaces in Figma and turn them into resp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
 
-**Currently learning:** React, Tailwind CSS
+**Currently learning:**
+
+![React](https://shields.io)
+![TailwindCSS](https://shields.io)
+
 
 ## Let's connect
 
