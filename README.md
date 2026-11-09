@@ -2,7 +2,7 @@
 
 **Frontend Developer | Figma UI Designer | Laravel**
 
-Based in 📍 Karachi, Pakistan. I design interfaces in Figma and turn them into responsive, polished websites.
+Based in 📍Karachi, Pakistan. I design interfaces in Figma and turn them into responsive, polished websites.
 
 ## 💻 Tech Stack
 
@@ -18,7 +18,8 @@ Based in 📍 Karachi, Pakistan. I design interfaces in Figma and turn them into
 **Currently learning:**
 
 ![React](https://shields.io)
-![TailwindCSS](https://shields.io)
+![Tailwind CSS](https://shields.io)
+
 
 
 ## Let's connect
