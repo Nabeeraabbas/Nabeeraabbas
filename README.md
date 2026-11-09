@@ -1,4 +1,4 @@
-# Hi, I'm Nabeera 👋
+# Hey, I'm Nabeera 
 
 **Frontend Developer | Figma UI Designer | Laravel**
 
